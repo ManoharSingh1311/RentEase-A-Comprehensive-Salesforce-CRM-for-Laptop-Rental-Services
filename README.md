@@ -97,10 +97,10 @@ The system architecture comprises:
 
 ## Screenshots
 ### 1. **Flows**
-![Flow Screenshot](Sources/Flow2)
+![Flow Screenshot](Sources/Flow2.png)
 
 ### 2. **Flows**
-![Flow Screenshot](Sources/Flow3)
+![Flow Screenshot](Sources/Flow3.png)
 
 ### 3. **Dashboard**
 ![Dashboard Screenshot](Sources/DashBoard.png)
