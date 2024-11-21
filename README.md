@@ -1,6 +1,6 @@
 # RentEase - A Comprehensive Salesforce CRM for Laptop Rental Services
 
-![RentEase Logo](![RentEase Logo](Sources/RentEase%20-%20A%20CRM%20For%20Laptop%20Rentals.png)
+![RentEase Logo](Sources/RentEase%20-%20A%20CRM%20For%20Laptop%20Rentals.png)
 )
 
 ## Table of Contents
