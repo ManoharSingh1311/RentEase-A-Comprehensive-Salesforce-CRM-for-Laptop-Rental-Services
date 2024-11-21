@@ -96,14 +96,14 @@ The system architecture comprises:
 3. Mobile app support for better accessibility.
 
 ## Screenshots
-### 1. **Flow for Booking Confirmation Notification**
-![Flow Screenshot](path_to_booking_confirmation_flow_screenshot)
+### 1. **Flows**
+![Flow Screenshot](Sources/Flow2)
 
-### 2. **Flow for Inventory Update**
-![Flow Screenshot](path_to_inventory_update_flow_screenshot)
+### 2. **Flows**
+![Flow Screenshot](Sources/Flow3)
 
 ### 3. **Dashboard**
-![Dashboard Screenshot](path_to_dashboard_screenshot)
+![Dashboard Screenshot](Sources/DashBoard.png)
 
 ---
 
@@ -131,4 +131,4 @@ RentEase is a comprehensive Salesforce-based CRM tailored for the laptop rental 
 ## Contact
 For questions or support, please contact:
 - **Email**:burathimannu@gmail.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/manohar-singh-a50390222/)
+- **LinkedIn**: [Manohar Singh](https://www.linkedin.com/in/manohar-singh-a50390222/)
