@@ -121,7 +121,7 @@ RentEase is a comprehensive Salesforce-based CRM tailored for the laptop rental 
 ---
 
 ## Authors
-- **Manohar Singh**
+- **Manohar Singh** : [Manohar Singh](https://linktr.ee/Manohar_Singh)
 
 
 ---
